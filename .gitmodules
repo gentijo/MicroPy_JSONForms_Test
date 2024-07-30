@@ -1,0 +1,12 @@
+[submodule "user_c_module/libMicroPy_JSONForms"]
+	path = user_c_module/libMicroPy_JSONForms
+	url = https://github.com/gentijo/libMicroPy_JSONForms.git
+[submodule "user_c_module/lv_port_linux"]
+	path = user_c_module/lv_port_linux
+	url = https://github.com/lvgl/lv_port_linux.git
+[submodule "micropython"]
+	path = micropython
+	url = https://github.com/micropython/micropython.git
+[submodule "lv_micropython"]
+	path = lv_micropython
+	url = https://github.com/lvgl/lv_micropython.git
